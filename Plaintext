@@ -1,0 +1,12 @@
+sass-optimize-practice/
+│
+├── sass/
+│   ├── abstracts/
+│   │   ├── _variables.scss
+│   │   └── _mixins.scss
+│   ├── base/
+│   │   └── _typography.scss
+│   ├── components/
+│   │   ├── _buttons.scss
+│   │   └── _cards.scss
+│   └── main.scss
